@@ -1,6 +1,6 @@
 Customer Purchase Analysis
 
-This is a dummy project created to showcase data analysis and dashboard design skills using Excel.
+This is a project created to showcase data analysis and dashboard design skills using Excel.
 The dataset is fictional and used for demonstration purposes only.
 
 📂 Project Overview
